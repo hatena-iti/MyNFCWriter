@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">MyNFCWriter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="guide_message">Please place your smartphone on the tag.</string>
+    
+</resources>
